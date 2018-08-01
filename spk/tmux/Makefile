@@ -1,6 +1,6 @@
 SPK_NAME = tmux
-SPK_VERS = 2.3
-SPK_REV = 3
+SPK_VERS = 2.7
+SPK_REV = 4
 SPK_ICON = src/tmux.png
 
 DEPENDS = cross/$(SPK_NAME)
@@ -11,7 +11,7 @@ RELOAD_UI = no
 DISPLAY_NAME = Tmux
 STARTABLE = no
 BETA = 1
-CHANGELOG = Update to 2.3
+CHANGELOG = Update to 2.7
 
 HOMEPAGE   = http://tmux.github.io
 LICENSE    = BSD License
